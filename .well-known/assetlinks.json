@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.haranet.chapchi",
+    "package_name": "ir.chapchico.chapchi",
     "sha256_cert_fingerprints":
-    ["5D:E7:A9:57:27:EF:8F:2B:5C:E0:70:B8:B0:6C:C0:12:95:BB:B4:24:DE:0D:5B:06:85:F2:16:75:5F:AC:EB:9B"]
+    ["4F:E2:54:5E:80:B0:79:38:8F:96:4C:18:4F:19:A1:CE:8B:F0:CD:55:E8:C9:CB:34:9B:B0:54:4F:0A:DE:84:A1"]
   }
 }]
